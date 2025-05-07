@@ -1,6 +1,9 @@
 Analīze - Problēmas apraksts, kāpēc tā ir aktuāla
-  musdienas daudzi cilveki spele Brawl Stars un daudzi no tiem tieši nezina kadu bildu vajag nemt uz varoniem
+ Brawl Stars spēlētājiem bieži nav pieejama ātra un strukturēta informācija par varoņu buildiem (gadgets, star powers, gears)
+ Spēles laikā vai pirms tās spēlētājs vēlas ātri noskaidrot optimālo iestatījumu
+ Meklēt informāciju internetā ir laikietilpīgi un neefektīvi
 Analīze - Mērķauditorija, kura lietos programmu
-  cilveki kuri spele Brawl Stars no 3 lidz 103 gadiem un kuri nezin ka pareizi bildit varoņus
+  Bērni un jaunieši vecumā no 7 līdz 25 gadiem
+  Aktīvi Brawl Stars spēlētāji
 Analīze - eksistējošo risinājumu analīze, ekrānšāviņi, plusi un mīnusi
   ir video youtube platforma par šo temu, bet kā minusu tur vajag ilgi meklet video vai video fragmentu par konkretu varonu, bet mana bota var viegli atrast nepieciešamo varonu. Kā plusi youtube video var but kaut kadi kommentariji kaoec vajag ņemt tieši šo bildi
