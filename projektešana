@@ -1,0 +1,14 @@
+📄 Specifikācija:
+Šis Telegram bots ļauj lietotājiem ērti apskatīt Brawl Stars varoņu “buildus”, izmantojot vienkāršu pogu izvēlni. Katram varonim bots sniedz šādu informāciju:  Gadget, Star Power and Gears. Bots darbojas, izmantojot Python telebot bibliotēku, un datus iegūst no strukturēta JSON faila. Lietotājs mijiedarbojas ar botu tikai caur inline pogām, kas padara pieredzi ātru, vizuāli ērtu un bez kļūdu riska. Bots darbojas stabili un ir paredzēts gan mobilajām ierīcēm, gan datoriem.
+Funkcionālās prasības:
+  /start komanda uzrāda izvēlni ar pogām
+  Lietotājs var izvēlēties varoni, izmantojot pogas
+  Katram varonim bots atgriež character build info (gadget, star power, gears)  
+  Ir pogas back and start over lai atgriezties atpakaļ
+  Pogas tiek automātiski ģenerētas no datu faila
+Nefunkcionālās prasības:
+  Kods ir strukturēts, izmantojot snake_case, bez saīsinājumiem
+  Pogu skaits un teksti tiek validēti – nav tukšu lauku vai dublikātu
+  Īss atbildes laiks
+  Datu avots (JSON) ir strukturēts, un to var viegli atjaunināt.
+  Bots izmanto tikai autorizētas bibliotēkas (telebot, json)
