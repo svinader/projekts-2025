@@ -1,8 +1,11 @@
 2 veiksmes scenāriji:
-
-
+Zinot, ka lietotājs sāk sarunu ar /start un izvēlas retumu “Rare”, Kad lietotājs izvēlas kādu pieejamo varoni (piemēram, “Poco”), Tad bots parāda informāciju par šo varoni un bildi 
+Zinot, ka retumā “Epic” ir vairāk par 5 varoņiem, Kad lietotājs nospiež “Next” pogu, Tad bots parāda nākamo varoņu lapu ar jauniem pogu izvēles variantiem
 4 lietošanas scenāriji:
-
+Zinot, ka retums “Mythic” datu failā nav piešķirts nevienam varonim, Kad lietotājs to izvēlas, Tad bots atbild ar paziņojumu “No characters found for this rarity.”
+Zinot, ka characters_data satur varoni bez builds vai description lauka, Kad lietotājs izvēlas šo varoni, Tad bots nosūta ziņu “Build not found.”
+Zinot, ka lietotājs atrodas varoņu izvēles lapā, Kad viņš nospiež “🔙 Back” pogu, Tad bots atkal parāda retumu izvēli
+Zinot, ka lietotājs manipulē ar URL vai callback un izvēlas neeksistējošu varoni, Kad tiek nosūtīta callback_data='character:NotReal', Tad bots parāda “Build not found.”
 2 robež-scenāriji:
-characters_data.json ir tukšs
-caption garāks par 1024 simboliem
+Zinot, ka characters_data.json fails ir tukšs, Kad lietotājs sāk dialogu un izvēlas jebkuru retumu, Tad bots parāda “No characters found for this rarity.”
+Zinot, ka varoņa build teksts pārsniedz 1024 simbolus, Kad bots mēģina to nosūtīt kā caption, Tad teksts tiek apgriezts līdz 1020 simboliem ar "..."
