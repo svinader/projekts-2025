@@ -1,0 +1,821 @@
+{
+  "Shelly": {
+    "rarity": "common",
+    "image": "https://ibb.co/9HBJf38g",
+    "builds": [
+      "Gadget: Clay Pigeons",
+      "Star Power: Shell Shock",
+      "Gears: Gadget Charge and Damage"
+    ]
+  },
+  "Barley": {
+    "rarity": "rare",
+    "image": "https://ibb.co/ksTxgw96",
+    "builds": [
+      "Gadget: Sticky Syrup Mixer",
+      "Star Power: Extra Noxious",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Brock": {
+    "rarity": "rare",
+    "image": "https://ibb.co/4ns6Mpb8",
+    "builds": [
+      "Gadget: Rocket Laces",
+      "Star Power: Rocket No. 4",
+      "Gears: Reload Speed and Damage"
+    ]
+  },
+  "Bull": {
+    "rarity": "rare",
+    "image": "https://ibb.co/pvb6ZHgd",
+    "builds": [
+      "Gadget: Stomper",
+      "Star Power: Tough Guy",
+      "Gears: Super Charge and Damage"
+    ]
+  },
+  "Colt": {
+    "rarity": "rare",
+    "image": "https://ibb.co/5WDQ8fCR",
+    "builds": [
+      "Gadget: Speedloader",
+      "Star Power: Magnum Special",
+      "Gears: Reload Speed and Gadget Charge"
+    ]
+  },
+  "El Primo": {
+    "rarity": "rare",
+    "image": "https://ibb.co/8gv2P7kZ",
+    "builds": [
+      "Gadget: Suplex Supplement",
+      "Star Power: Meteor Rush",
+      "Gears: Super Charge and Damage"
+    ]
+  },
+  "Nita": {
+    "rarity": "rare",
+    "image": "https://ibb.co/dvySh0X",
+    "builds": [
+      "Gadget: Faux Fur",
+      "Star Power: Hyper Bear",
+      "Gears: Pet Power and Damage"
+    ]
+  },
+  "Poco": {
+    "rarity": "rare",
+    "image": "https://ibb.co/wFnkMn34",
+    "builds": [
+      "Gadget: Tuning Fork",
+      "Star Power: Screeching Solo",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Rosa": {
+    "rarity": "rare",
+    "image": "https://ibb.co/ks65mxyc",
+    "builds": [
+      "Gadget: Grow Light",
+      "Star Power: Plant Life",
+      "Gears: Damage and Speed"
+    ]
+  },
+  "8-Bit": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/p63TkJbX",
+    "builds": [
+      "Gadget: Cheat Cartridge",
+      "Star Power: Boosted Booster",
+      "Gears: Damage and Reload Speed"
+    ]
+  },
+  "Carl": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/zWSLbyMj",
+    "builds": [
+      "Gadget: Heat Ejector",
+      "Star Power: Protective Pirouette",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Darryl": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/20sXKBv8",
+    "builds": [
+      "Gadget: Tar Barrel",
+      "Star Power: Steel Hoops",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Dynamike": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/HT9cd9fF",
+    "builds": [
+      "Gadget: Satchel Charge",
+      "Star Power: Demolition",
+      "Gears: Gadget Charge and Shield"
+    ]
+  },
+  "Gus": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/d05SPv67",
+    "builds": [
+      "Gadget: Kooky Popper",
+      "Star Power: Spirit Animal",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Jacky": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/nNCcm97d",
+    "builds": [
+      "Gadget: Pneumatic Booster",
+      "Star Power: Counter Crush",
+      "Gears: Super Charge and Damage"
+    ]
+  },
+  "Jessie": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/KxjXPHpR",
+    "builds": [
+      "Gadget: Spark Plug",
+      "Star Power: Energize",
+      "Gears: Shield and Pet Power"
+    ]
+  },
+  "Penny": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/0VrVbs9R",
+    "builds": [
+      "Gadget: Salty Barrel",
+      "Star Power: Master Blaster",
+      "Gears: Shield and Pet Power"
+    ]
+  },
+  "Rico": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/G4YfnwpV",
+    "builds": [
+      "Gadget: Multiball Launcher",
+      "Star Power: Super Bouncy",
+      "Gears: Reload Speed and Damage"
+    ]
+  },
+  "Tick": {
+    "rarity": "super_rare",
+    "image": "https://ibb.co/N2CJm8yv",
+    "builds": [
+      "Gadget: Last Hurrah",
+      "Star Power: Well Oiled",
+      "Gears: Thicc Head and Shield"
+    ]
+  },
+  "Angelo": {
+    "rarity": "epic",
+    "image": "https://ibb.co/kt5LzFc",
+    "builds": [
+      "Gadget: Stinging Flight",
+      "Star Power: Empower",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Ash": {
+    "rarity": "epic",
+    "image": "https://ibb.co/tTnD7B9J",
+    "builds": [
+      "Gadget: Chill Pill",
+      "Star Power: First Bash",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Bea": {
+    "rarity": "epic",
+    "image": "https://ibb.co/bR2X76hw",
+    "builds": [
+      "Gadget: Rattled Hive",
+      "Star Power: Insta Beaload",
+      "Gears: Damage and Gadget Charge"
+    ]
+  },
+  "Belle": {
+    "rarity": "epic",
+    "image": "https://ibb.co/cKzJNWjP",
+    "builds": [
+      "Gadget: Nest Egg",
+      "Star Power: Positive Feedback",
+      "Gears: Reload Speed and Shield"
+    ]
+  },
+  "Berry": {
+    "rarity": "epic",
+    "image": "https://ibb.co/r2cVRGds",
+    "builds": [
+      "Gadget: Friendship Is Great",
+      "Star Power: Floor Is Fine",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Bibi": {
+    "rarity": "epic",
+    "image": "https://ibb.co/DfC6TZqh",
+    "builds": [
+      "Gadget: Vitamin Booster",
+      "Star Power: Home Run",
+      "Gears: Damage and Health"
+    ]
+  },
+  "Bo": {
+    "rarity": "epic",
+    "image": "https://ibb.co/TqRp6CYS",
+    "builds": [
+      "Gadget: Super Totem",
+      "Star Power: Snare A Bear",
+      "Gears: Reload Speed and Damage"
+    ]
+  },
+  "Bonnie": {
+    "rarity": "epic",
+    "image": "https://ibb.co/671R4xsq",
+    "builds": [
+      "Gadget: Sugar Rush",
+      "Star Power: Black Powder",
+      "Gears: Super Charge and Damage"
+    ]
+  },
+  "Colette": {
+    "rarity": "epic",
+    "image": "https://ibb.co/bjrZR066",
+    "builds": [
+      "Gadget: Gotcha!",
+      "Star Power: Mass Tax",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Edgar": {
+    "rarity": "epic",
+    "image": "https://ibb.co/wvNZrmr",
+    "builds": [
+      "Gadget: Let's Fly",
+      "Star Power: Fisticuffs",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Emz": {
+    "rarity": "epic",
+    "image": "https://ibb.co/LD8XP7Mt",
+    "builds": [
+      "Gadget: Friendzoner",
+      "Star Power: Bad Karma",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Frank": {
+    "rarity": "epic",
+    "image": "https://ibb.co/twrdwdr4",
+    "builds": [
+      "Gadget: Irresistible Attraction",
+      "Star Power: Power Grab",
+      "Gears: Damage and Health"
+    ]
+  },
+  "Gale": {
+    "rarity": "epic",
+    "image": "https://ibb.co/CsYmbYPb",
+    "builds": [
+      "Gadget: Twister",
+      "Star Power: Freezing Snow",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Griff": {
+    "rarity": "epic",
+    "image": "https://ibb.co/JRrwHTDp",
+    "builds": [
+      "Gadget: Piggy Bank",
+      "Star Power: Business Resilience",
+      "Gears: Damage and Reload Speed"
+    ]
+  },
+  "Grom": {
+    "rarity": "epic",
+    "image": "https://ibb.co/gFdh16f8",
+    "builds": [
+      "Gadget: Radio Check",
+      "Star Power: X-Factor",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Hank": {
+    "rarity": "epic",
+    "image": "https://ibb.co/KxH7YfBm",
+    "builds": [
+      "Gadget: Barricade",
+      "Star Power: It's Gonna Blow",
+      "Gears: Health and Damage"
+    ]
+  },
+  "Larry & Lawrie": {
+    "rarity": "epic",
+    "image": "https://ibb.co/7dDbb6X8",
+    "builds": [
+      "Gadget: Order: Fall Back",
+      "Star Power: Protocol: Protect",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Lola": {
+    "rarity": "epic",
+    "image": "https://ibb.co/8nHYr4Tf",
+    "builds": [
+      "Gadget: Stunt Double",
+      "Star Power: Improvise",
+      "Gears: Reload Speed and Shield"
+    ]
+  },
+  "Maisie": {
+    "rarity": "epic",
+    "image": "https://ibb.co/fGYk9nQs",
+    "builds": [
+      "Gadget: Disengage!",
+      "Star Power: Tremors",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Mandy": {
+    "rarity": "epic",
+    "image": "https://ibb.co/nMvqhGPN",
+    "builds": [
+      "Gadget: Cookie Crumbs",
+      "Star Power: In My Sights",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Meeple": {
+    "rarity": "epic",
+    "image": "https://ibb.co/gbY8gKmW",
+    "builds": [
+      "Gadget: Mansions of Meeple",
+      "Star Power: Do Not Pass Go",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Nani": {
+    "rarity": "epic",
+    "image": "https://ibb.co/zW7ZVrLT",
+    "builds": [
+      "Gadget: Return To Sender",
+      "Star Power: Autofocus",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Pam": {
+    "rarity": "epic",
+    "image": "https://ibb.co/5xW4Y79Q",
+    "builds": [
+      "Gadget: Scrapsucker",
+      "Star Power: Mama's Squeeze",
+      "Gears: Super Turret and Damage"
+    ]
+  },
+  "Pearl": {
+    "rarity": "epic",
+    "image": "https://ibb.co/1JTtbZ9S",
+    "builds": [
+      "Gadget: Overcooked",
+      "Star Power: Heat Shield",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Piper": {
+    "rarity": "epic",
+    "image": "https://ibb.co/zT45hLYy",
+    "builds": [
+      "Gadget: Auto Aimer",
+      "Star Power: Snappy Sniping",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Sam": {
+    "rarity": "epic",
+    "image": "https://ibb.co/qMgjNDMd",
+    "builds": [
+      "Gadget: Magnetic Field",
+      "Star Power: Hearty Recovery",
+      "Gears: Damage and Health"
+    ]
+  },
+  "Shade": {
+    "rarity": "epic",
+    "image": "https://ibb.co/PZX9x8xq",
+    "builds": [
+      "Gadget: Longarms",
+      "Star Power: Hardened Hoodie",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Stu": {
+    "rarity": "epic",
+    "image": "https://ibb.co/4zTZZ8M",
+    "builds": [
+      "Gadget: Breakthrough",
+      "Star Power: Gaso-Heal",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Buster": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/60tM7dkT",
+    "builds": [
+      "Gadget: Slo-Mo Replay",
+      "Star Power: Kevlar Vest",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Buzz": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/qMWHqpRY",
+    "builds": [
+      "Gadget: Reserve Buoy",
+      "Star Power: Eyes Sharp",
+      "Gears: Damage and Gadget Charge"
+    ]
+  },
+  "Byron": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/6JP754Vp",
+    "builds": [
+      "Gadget: Booster Shots",
+      "Star Power: Injection",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Charlie": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/0RWqGscD",
+    "builds": [
+      "Gadget: Spiders",
+      "Star Power: Digestive",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Chuck": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/PG23RtLQ",
+    "builds": [
+      "Gadget: Rerouting",
+      "Star Power: Pit Stop",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Clansy": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/jvYWGPV7",
+    "builds": [
+      "Gadget: Snappy Shooting",
+      "Star Power: Recon",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Doug": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/39Fp6yh1",
+    "builds": [
+      "Gadget: Extra Mustard",
+      "Star Power: Self Service",
+      "Gears: Damage and Gadget Charge"
+    ]
+  },
+  "Eve": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/gLXFyKC3",
+    "builds": [
+      "Gadget: Gotta Go!",
+      "Star Power: Happy Surprise",
+      "Gears: Quadruplets and Shield"
+    ]
+  },
+  "Fang": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/0jQVvZhF",
+    "builds": [
+      "Gadget: Roundhouse Kick",
+      "Star Power: Divine Soles",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Finx": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/kVvb8BD9",
+    "builds": [
+      "Gadget: No Escape",
+      "Star Power: Hieroglyph Halt",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Gene": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/dwKPmdyK",
+    "builds": [
+      "Gadget: Lamp Blowout",
+      "Star Power: Magic Puffs",
+      "Gears: Talk to the Hand and Shield"
+    ]
+  },
+  "Gray": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/R4Hc5S5k",
+    "builds": [
+      "Gadget: Walking Cane",
+      "Star Power: New Perspective",
+      "Gears: Damage and Gadget Charge"
+    ]
+  },
+  "Jae-Yong": {
+    "rarity": "mythic",
+    "image": "https://ltdfoto.ru/image/s9A1JS",
+    "builds": [
+      "Gadget: Weekend Warrior",
+      "Star Power: Extra High Note",
+      "Gears: Damage and Gadget Cooldown"
+    ]
+  },
+  "Janet": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/1YKrw0nN",
+    "builds": [
+      "Gadget: Drop The Bass",
+      "Star Power: Stage View",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Juju": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/5WpdgCBJ",
+    "builds": [
+      "Gadget: Elementalist",
+      "Star Power: Numbing Needles",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Lily": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/9msjC1j6",
+    "builds": [
+      "Gadget: Vanish",
+      "Star Power: Spiky",
+      "Gears: Damage and Gadget Charge"
+    ]
+  },
+  "Lou": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/r2FQcwNK",
+    "builds": [
+      "Gadget: Cryo Syrup",
+      "Star Power: Hypothermia",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Lumi": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/r2gPGkC7",
+    "builds": [
+      "Gadget: Grim and Frostbitten",
+      "Star Power: Half-Time",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Max": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/35VTZpWC",
+    "builds": [
+      "Gadget: Phase Shifter",
+      "Star Power: Run N Gun",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Melodie": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/ymyfT00B",
+    "builds": [
+      "Gadget: Interlude",
+      "Star Power: Fast Beats",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Mico": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/PZhZ62Gw",
+    "builds": [
+      "Gadget: Clipping Scream",
+      "Star Power: Monkey Business",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Moe": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/23883Qj5",
+    "builds": [
+      "Gadget: Dodgy Digging",
+      "Star Power: Skipping Stones",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Mortis": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/mF0kBgHT",
+    "builds": [
+      "Gadget: Survival Shovel",
+      "Star Power: Coiled Snake",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Mr.P": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/HDkyK0LH",
+    "builds": [
+      "Gadget: Porter Reinforcements",
+      "Star Power: Revolving Door",
+      "Gears: Pet Power and Damage"
+    ]
+  },
+  "Ollie": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/bjQmnXps",
+    "builds": [
+      "Gadget: Regulate",
+      "Star Power: Renegade",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Otis": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/ynXR0M5D",
+    "builds": [
+      "Gadget: Phat Splatter",
+      "Star Power: Ink Refills",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "R-T": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/wNsbGtwf",
+    "builds": [
+      "Gadget: Out of Line",
+      "Star Power: Recording",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Ruffs": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/23PQZNSf",
+    "builds": [
+      "Gadget: Take Cover",
+      "Star Power: Air Superiority",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Sprout": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/gLY902c0",
+    "builds": [
+      "Gadget: Transplant",
+      "Star Power: Overgrowth",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Squeak": {
+    "rarity": "mythic",
+    "image": "https://ibb.co/7NLcJTTx",
+    "builds": [
+      "Gadget: Residue",
+      "Star Power: Super Sticky",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Tara": {
+    "rarity": "mythic",
+    "image": "https://ltdfoto.ru/image/spqJLn",
+    "builds": [
+      "Gadget: Support From Beyond",
+      "Star Power: Black Portal",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Willow": {
+    "rarity": "mythic",
+    "image": "https://ltdfoto.ru/image/spqyOj",
+    "builds": [
+      "Gadget: Dive",
+      "Star Power: Love Is Blind",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Amber": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/xt79cnC3",
+    "builds": [
+      "Gadget: Dancing Flames",
+      "Star Power: Wild Flames",
+      "Gears: Reload Speed and Sticky Oil"
+    ]
+  },
+  "Chester": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/x8SGjTjR",
+    "builds": [
+      "Gadget: Candy Beans",
+      "Star Power: Single Bell'O'Mania",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Cordelius": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/DHSvVkSv",
+    "builds": [
+      "Gadget: Poison Mushroom",
+      "Star Power: Mushroom Kingdom",
+      "Gears: Damage and Gadget Charge"
+    ]
+  },
+  "Crow": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/pvLwwpRR",
+    "builds": [
+      "Gadget: Slowing Toxin",
+      "Star Power: Carrion Crow",
+      "Gears: Shield and Enduring Toxins"
+    ]
+  },
+  "Draco": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/kVYvjP4L",
+    "builds": [
+      "Gadget: Last Stand",
+      "Star Power: Shredding",
+      "Gears: Gadget Charge and Damage"
+    ]
+  },
+  "Kenji": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/j98k0MsY",
+    "builds": [
+      "Gadget: Hosomaki Healing",
+      "Star Power: Nigiri Nemesis",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Kit": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/cSPGSZMj",
+    "builds": [
+      "Gadget: Cardboard Box",
+      "Star Power: Power Hungry",
+      "Gears: Gadget Charge and Damage"
+    ]
+  },
+  "Leon": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/2Y6fg7qL",
+    "builds": [
+      "Gadget: Lollipop Drop",
+      "Star Power: Invisiheal",
+      "Gears: Lingering Smoke and Damage"
+    ]
+  },
+  "Meg": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/wXLzdhN",
+    "builds": [
+      "Gadget: Jolting Volts",
+      "Star Power: Force Field",
+      "Gears: Shield and Damage"
+    ]
+  },
+  "Sandy": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/TD2fMNbT",
+    "builds": [
+      "Gadget: Sweet Dreams",
+      "Star Power: Rude Sands",
+      "Gears: Damage and Shield"
+    ]
+  },
+  "Spike": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/R4syS257",
+    "builds": [
+      "Gadget: Life Plant",
+      "Star Power: Curveball",
+      "Gears: Sticky Spikes and Shield"
+    ]
+  },
+  "Surge": {
+    "rarity": "legendary",
+    "image": "https://ibb.co/vC6vXYkG",
+    "builds": [
+      "Gadget: Power Shield",
+      "Star Power: Serve Ice Cold",
+      "Gears: Shield and Damage"
+    ]
+  }
+}
